@@ -23,6 +23,10 @@ npm install
 npm run dev
 ```
 
+## Live Demo
+
+https://url-shortener-app-smoky.vercel.app
+
 ## Author
 
 Teecko
